@@ -1,0 +1,8 @@
+### Custom .gitignore template template
+
+# IntelliJ project files
+.idea
+*.iml
+
+# MacOS
+.DS_STORE
